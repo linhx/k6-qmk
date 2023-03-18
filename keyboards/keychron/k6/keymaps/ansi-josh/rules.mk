@@ -9,3 +9,5 @@ endif
 
 # Enable console for debugging
 # CONSOLE_ENABLE = yes
+
+GRAVE_ESC_ENABLE = yes
